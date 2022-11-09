@@ -5,4 +5,4 @@
 - Universitas : Universitas Sumatera Utara
 
 
-Dibuat untuk menyimpan tugas dan proyek akhir selama studi independen berlangsung
+Repositori dibuat untuk menyimpan tugas dan proyek akhir selama studi independen berlangsung.
