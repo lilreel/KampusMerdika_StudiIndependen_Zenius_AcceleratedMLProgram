@@ -1,7 +1,7 @@
 # MBKM_studpen_Zenius_AcceleratedMLProgram
 
 - Nama        : Chalil Al Vareel
-- Asal        : Sumatera Utara
+- Asal        : Takengon, Aceh Tengah, Aceh
 - Universitas : Universitas Sumatera Utara
 
 
