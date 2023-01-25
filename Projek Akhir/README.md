@@ -1,3 +1,3 @@
 # Projek Akhir
 
-Dataset : https://drive.google.com/drive/folders/14OEdJJ_72DN_KmWgKvKIev9wdGtlwF9n?usp=sharing
+Dataset : https://www.kaggle.com/c/home-credit-default-risk
