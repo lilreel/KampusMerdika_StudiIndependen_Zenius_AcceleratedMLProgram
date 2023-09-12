@@ -6,3 +6,5 @@
 
 
 Repositori dibuat untuk menyimpan tugas dan proyek akhir selama program Kampus Merdeka - Studi Independen berlangsung.
+
+## 1. Percobaan Github
